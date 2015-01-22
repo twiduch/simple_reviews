@@ -1,6 +1,3 @@
-Product Manager Requirements
-----------------------------
-
 When I get a Review, I want it to be vetted based on the following rules.
 
 * Offensive words
